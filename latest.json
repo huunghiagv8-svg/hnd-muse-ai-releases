@@ -2,9 +2,9 @@
   "version": "1.9.8",
   "filename": "HND_Muse_AI_Setup_V1.9.8.exe",
   "download_url": "https://github.com/huunghiagv8-svg/hnd-muse-ai-releases/releases/download/v1.9.8/HND_Muse_AI_Setup_V1.9.8.exe",
-  "bytes": 142972553,
-  "sha256": "a324f39823fde998b6af0de9db212010d61c3bdd42a4ebbfc82e9554a7b2ec6a",
-  "notes": "- Auto-Updater GitHub Releases: Tự động kiểm tra bản mới, tải về kèm xác thực SHA-256 và nâng cấp In-Place giữ nguyên 100% dữ liệu (data/, outputs/, tài khoản, dự án).\n- Vá lỗi dính nhân vật / bối cảnh cũ ở Xưởng Phim: Cách ly hoàn toàn ảnh tham chiếu (cfg.refs) giữa Xưởng Phim và Trợ lý kịch bản / Clone Video, sửa lỗi parse 0 NV với định dạng @image1 (Tên).\n- Mở rộng 25-27 Thể loại & 38 Phong cách hình ảnh Hot: Bổ sung Motion Comic / Tranh chuyển động, 2.5D Parallax / Ken Burns Storytelling, Phim Tài Liệu / Video Essay (Lịch sử - Thời sự - Nhân vật), Thần Thoại - Vũ Trụ - Đấng Tạo Hóa, Đêm Giáng Sinh / Kinh Thánh, Kể Chuyện Minh Họa, Phật Pháp / Nhân Quả cùng 12 phong cách hình ảnh chuyên biệt.\n- Thêm Storytelling Không Thoại (Visual Storytelling, không lời thoại, không lip-sync) và Thuyết Minh Kể Chuyện / Tài Liệu (giọng trầm ấm ngoài hình, Tiếng Việt & Tiếng Anh).\n- Tích hợp sẵn certifi SSL fix cho Shopee Catalog giúp máy khách lấy đủ ảnh & thông tin sản phẩm.",
+  "bytes": 142969715,
+  "sha256": "a89dcc61944ebf0407a7a8563dd77bfdf10801238b195ec61a9ebe4392dcd16c",
+  "notes": "- Auto-Updater GitHub Releases: Tự động kiểm tra bản mới, tải về kèm xác thực SHA-256 và nâng cấp In-Place giữ nguyên 100% dữ liệu (data/, outputs/, tài khoản, dự án); đồng bộ trực tiếp cả nút Kiểm tra cập nhật trong mục Cài đặt -> Thông tin.\n- Vá lỗi dính nhân vật / bối cảnh cũ ở Xưởng Phim: Cách ly hoàn toàn ảnh tham chiếu (cfg.refs) giữa Xưởng Phim và Trợ lý kịch bản / Clone Video, sửa lỗi parse 0 NV với định dạng @image1 (Tên).\n- Mở rộng 25-27 Thể loại & 38 Phong cách hình ảnh Hot: Bổ sung Motion Comic / Tranh chuyển động, 2.5D Parallax / Ken Burns Storytelling, Phim Tài Liệu / Video Essay (Lịch sử - Thời sự - Nhân vật), Thần Thoại - Vũ Trụ - Đấng Tạo Hóa, Đêm Giáng Sinh / Kinh Thánh, Kể Chuyện Minh Họa, Phật Pháp / Nhân Quả cùng 12 phong cách hình ảnh chuyên biệt.\n- Thêm Storytelling Không Thoại (Visual Storytelling, không lời thoại, không lip-sync) và Thuyết Minh Kể Chuyện / Tài Liệu (giọng trầm ấm ngoài hình, Tiếng Việt & Tiếng Anh).\n- Tích hợp sẵn certifi SSL fix cho Shopee Catalog giúp máy khách lấy đủ ảnh & thông tin sản phẩm.",
   "release_url": "https://github.com/huunghiagv8-svg/hnd-muse-ai-releases/releases/tag/v1.9.8",
-  "published_utc": "2026-11-27T06:51:11.789884+00:00"
+  "published_utc": "2026-11-27T07:00:02.864730+00:00"
 }
